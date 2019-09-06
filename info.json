@@ -1,0 +1,193 @@
+{
+  "list": [
+    {
+      "name": "matris",
+      "vahed": 3,
+      "info": {
+        "exam": "10/22",
+        "time": [
+          {
+            "day": "sh",
+            "time": "8",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh2",
+            "time": "10",
+            "even": true,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "algorithm",
+      "vahed": 3,
+      "info": {
+        "exam": "10/24",
+        "time": [
+          {
+            "day": "sh",
+            "time": "10",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh1",
+            "time": "2",
+            "even": false,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "mohasebe",
+      "vahed": 3,
+      "info": {
+        "exam": "10/18",
+        "time": [
+          {
+            "day": "sh1",
+            "time": "2",
+            "even": true,
+            "odd": false
+          },
+          {
+            "day": "sh2",
+            "time": "10",
+            "even": true,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "compiler",
+      "vahed": 3,
+      "info": {
+        "exam": "11/01",
+        "time": [
+          {
+            "day": "sh1",
+            "time": "10",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh3",
+            "time": "2",
+            "even": false,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "jabr khati",
+      "vahed": 3,
+      "info": {
+        "exam": "10/21",
+        "time": [
+          {
+            "day": "sh",
+            "time": "2",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh1",
+            "time": "4",
+            "even": true,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "graphic",
+      "vahed": 3,
+      "info": {
+        "exam": "11/02",
+        "time": [
+          {
+            "day": "sh2",
+            "time": "2",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh3",
+            "time": "4",
+            "even": false,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "shabake",
+      "vahed": 3,
+      "info": {
+        "exam": "10/29",
+        "time": [
+          {
+            "day": "sh",
+            "time": "10",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh3",
+            "time": "4",
+            "even": true,
+            "odd": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "ehtemal",
+      "vahed": 3,
+      "info": {
+        "exam": "10/29",
+        "time": [
+          {
+            "day": "sh",
+            "time": "10",
+            "even": true,
+            "odd": true
+          },
+          {
+            "day": "sh2",
+            "time": "2",
+            "even": true,
+            "odd": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "eghtesad",
+      "vahed": 3,
+      "info": {
+        "exam": "10/30",
+        "time": [
+          {
+            "day": "sh1",
+            "time": "2",
+            "even": true,
+            "odd": false
+          },
+          {
+            "day": "sh3",
+            "time": "8",
+            "even": true,
+            "odd": true
+          }
+        ]
+      }
+    }
+  ]
+}
